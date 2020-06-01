@@ -58,6 +58,9 @@ Setup Knowledge
         IdentityFile ~/.ssh/github
         User git
       ```
+      - User は git にしないとうまく行かない
+    - ssh -T github.com
+      - yes -> success!
 - Visual Studio Code
 
 ## 開発環境構築 - iOS
