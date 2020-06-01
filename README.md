@@ -43,7 +43,21 @@ Setup Knowledge
 - Homebrew
 - Git設定
   - gitconfig
+    ```sh
+    $ git config --global user.name my_name
+    $ git config --global user.email myname@example.com
+    ```
   - github SSH 設定
+    - `$ ssh-keygen -t ed25519 -N "" -f ~/.ssh/github -C myname@example.com`
+    - github の settingsから新しい SSH Key を作成
+      - `$ pbcopy < ~/.ssh/github.pub` してクリップボードに公開鍵をコピーすると楽
+      - key名にはマシン名をつけるのが管理しやすい
+    - ```sh
+      $ vi ~/.ssh/config
+      Host github.com
+        IdentityFile ~/.ssh/github
+        User git
+      ```
 - Visual Studio Code
 
 ## 開発環境構築 - iOS
