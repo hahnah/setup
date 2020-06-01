@@ -62,6 +62,13 @@ Setup Knowledge
     - ssh -T github.com
       - yes -> success!
 - Visual Studio Code
+  - plugins
+    - Vim
+    - GitLens
+    - Git Graph
+    - ESLint
+    - Bracket Pair Colorizer 2
+    - Elm (Elm tooling)
 
 ## 開発環境構築 - iOS
 - XCode
