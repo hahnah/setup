@@ -1,2 +1,59 @@
 # setup
 Setup Knowledge
+
+## 一般設定
+- ディレクトリ名の英語化
+- hostname の変更
+  - SystemPreferrence>共有
+- 日付と時刻の表示設定
+- バッテリーの設置
+  - パーセンテージ表示
+  - ディスプレイオフまでの時間設定
+- ディスプレイ解像度設定
+- キーストローク設定
+- トラックパッド設定
+- 3本指ドラッグ設定
+- 操作スペースの自動入れ替わりを無効化
+- Finder設定
+  - Finder>環境設定 隠しファイル表示、その他諸々
+  - Host配下を、 表示オプション >常にカラム表示で開く・カラム表示でブラウズ
+  - >表示>パスバーを表示
+  - >表示>タブバーを表示
+  - >表示>ステータスバーを表示
+- ユーザー辞書
+  - OFF 英字入力中にスペルを自動変換
+  - OFF 文頭を自動的に大文字にする
+  - OFF スペースバーを2回押してピリオドを入力
+  - OFF スマート引用符とスマートダッシュを使用
+- Chrome インストール
+- IME設定
+  - Google日本語入力 インストール
+  - ことえり アンインストール
+- BetterSnapTool設定
+  - ON Start BetterSnapTool everytime your Mac starts up
+  - border width 3px
+- BetterTouchTool設定
+  - Chrome
+  - Safari
+- ターミナル設定
+  - Iceberg
+- vim設定
+
+## 開発環境構築 - 全般
+- Homebrew
+- Git設定
+  - gitconfig
+  - github SSH 設定
+- Visual Studio Code
+
+## 開発環境構築 - iOS
+- XCode
+- CocoaPods
+
+## 開発環境構築 - Web
+- nodenv
+- node.js (npm inside)
+
+## SNSアプリ
+- Slack
+- Discord
