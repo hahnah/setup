@@ -32,11 +32,6 @@ Setup Knowledge
 - BetterSnapTool設定
   - ON Start BetterSnapTool everytime your Mac starts up
   - border width 3px
-- BetterTouchTool設定
-  - Chrome
-  - Safari
-- ターミナル設定
-  - Iceberg
 - vim設定
 
 ## 開発環境構築 - 全般
