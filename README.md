@@ -65,6 +65,19 @@ Setup Knowledge
     - Bracket Pair Colorizer 2
     - Elm (Elm tooling)
 
+## CLI Tools
+次のサイトを参考に設定する。  
+https://www.josean.com/posts/how-to-setup-alacritty-terminal
+
+- Alacritty
+- alacritty-theme
+- powerlevel10k
+- zsh-autosuggestions
+- zsh-syntax-highlighting
+- eza
+- zoxide
+- tmux
+
 ## 開発環境構築 - iOS
 - XCode
 - CocoaPods
