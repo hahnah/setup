@@ -78,6 +78,10 @@ https://www.josean.com/posts/how-to-setup-alacritty-terminal
 - zoxide
 - tmux
 
+### Alacritty の設定ファイル
+`~/.config/alacritty/alacritty.toml` に設定する。  
+このリポジトリの .config/alacritty/alacritty.toml のようになる。
+
 ## 開発環境構築 - iOS
 - XCode
 - CocoaPods
