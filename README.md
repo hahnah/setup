@@ -82,6 +82,10 @@ https://www.josean.com/posts/how-to-setup-alacritty-terminal
 `~/.config/alacritty/alacritty.toml` に設定する。  
 このリポジトリの .config/alacritty/alacritty.toml のようになる。
 
+### zsh の設定ファイル
+`~/.zshrc` に設定する。  
+このリポジトリの .zshrc のようになる。
+
 ## 開発環境構築 - iOS
 - XCode
 - CocoaPods
