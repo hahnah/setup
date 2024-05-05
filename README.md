@@ -76,7 +76,7 @@ https://www.josean.com/posts/how-to-setup-alacritty-terminal
 - zsh-syntax-highlighting
 - eza
 - zoxide
-- tmux
+- ~~tmux~~ tmuxではなくzellijを使うことにする
 
 ### Alacritty の設定ファイル
 `~/.config/alacritty/alacritty.toml` に設定する。  
@@ -85,6 +85,13 @@ https://www.josean.com/posts/how-to-setup-alacritty-terminal
 ### zsh の設定ファイル
 `~/.zshrc` に設定する。  
 このリポジトリの .zshrc のようになる。
+
+### zellij のインストール・設定
+```bash
+brew install zellij
+mkdir ~/.config/zellij
+zellij setup --dump-config > ~/.config/zellij/config.kdl
+```
 
 ## 開発環境構築 - iOS
 - XCode
