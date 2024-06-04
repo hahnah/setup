@@ -2,7 +2,8 @@
 Setup Knowledge
 
 ## 一般設定
-- ディレクトリ名の英語化
+- 言語を英語にする
+- 地域を日本にする
 - hostname の変更
   - SystemPreferrence>共有
 - 日付と時刻の表示設定
