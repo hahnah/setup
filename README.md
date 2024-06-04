@@ -94,6 +94,14 @@ mkdir ~/.config/zellij
 zellij setup --dump-config > ~/.config/zellij/config.kdl
 ```
 
+### ripgrep コマンドのインストール
+brew install ripgrep
+
+### tree コマンドのインストール
+```
+brew install tree
+```
+
 ## 開発環境構築 - iOS
 - XCode
 - CocoaPods
