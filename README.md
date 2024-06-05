@@ -67,7 +67,7 @@ Setup Knowledge
     - Elm (Elm tooling)
 
 ## Dotfiles
-[dotfilesリポジトリ](https://github.com/hahnah/dotfiles の内容でセットする。  
+[dotfilesリポジトリ](https://github.com/hahnah/dotfiles) の内容でセットする。  
 その内容に各種ツールインストール時にセットされたりする。
 
 ## CLI Tools
