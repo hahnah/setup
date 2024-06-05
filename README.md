@@ -66,6 +66,10 @@ Setup Knowledge
     - Bracket Pair Colorizer 2
     - Elm (Elm tooling)
 
+## Dotfiles
+[dotfilesリポジトリ](https://github.com/hahnah/dotfiles の内容でセットする。  
+その内容に各種ツールインストール時にセットされたりする。
+
 ## CLI Tools
 次のサイトを参考に設定する。  
 https://www.josean.com/posts/how-to-setup-alacritty-terminal
