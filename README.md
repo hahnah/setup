@@ -14,6 +14,9 @@ Setup Knowledge
 - キーストローク設定
 - トラックパッド設定
 - 3本指ドラッグ設定
+- Keyboard > Input Sources で以下を無効化(そのkeybindをneovimで使いたいため)
+  - x Select the previous input source
+  - x Select next soruce in input menu
 - 操作スペースの自動入れ替わりを無効化
 - Finder設定
   - Finder>環境設定 隠しファイル表示、その他諸々
@@ -104,6 +107,16 @@ brew install ripgrep
 ### tree コマンドのインストール
 ```
 brew install tree
+```
+## Neovim
+```
+brew install neovim
+```
+設定は[dotfiles](https://github.com/hahnah/dotfiles)の内容にする。
+
+Lazy.nvimでプラグインのインストールを実行する。
+```
+:Lazy
 ```
 
 ## 開発環境構築 - iOS
