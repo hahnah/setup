@@ -1,7 +1,9 @@
 # setup
+
 Setup Knowledge
 
 ## 一般設定
+
 - 言語を英語にする
 - 地域を日本にする
 - hostname の変更
@@ -39,6 +41,7 @@ Setup Knowledge
 - vim設定
 
 ## 開発環境構築 - 全般
+
 - Homebrew
 - Git設定
   - gitconfig
@@ -70,10 +73,12 @@ Setup Knowledge
     - Elm (Elm tooling)
 
 ## Dotfiles
+
 [dotfilesリポジトリ](https://github.com/hahnah/dotfiles の内容でセットする。  
 その内容に各種ツールインストール時にセットされたりする。
 
 ## CLI Tools
+
 次のサイトを参考に設定する。  
 https://www.josean.com/posts/how-to-setup-alacritty-terminal
 
@@ -87,14 +92,17 @@ https://www.josean.com/posts/how-to-setup-alacritty-terminal
 - ~~tmux~~ tmuxではなくzellijを使うことにする
 
 ### Alacritty の設定ファイル
+
 `~/.config/alacritty/alacritty.toml` に設定する。  
 このリポジトリの .config/alacritty/alacritty.toml のようになる。
 
 ### zsh の設定ファイル
+
 `~/.zshrc` に設定する。  
 このリポジトリの .zshrc のようになる。
 
 ### zellij のインストール・設定
+
 ```bash
 brew install zellij
 mkdir ~/.config/zellij
@@ -102,31 +110,40 @@ zellij setup --dump-config > ~/.config/zellij/config.kdl
 ```
 
 ### ripgrep コマンドのインストール
+
 brew install ripgrep
 
 ### tree コマンドのインストール
+
 ```
 brew install tree
 ```
+
 ## Neovim
+
 ```
 brew install neovim
 ```
+
 設定は[dotfiles](https://github.com/hahnah/dotfiles)の内容にする。
 
 Lazy.nvimでプラグインのインストールを実行する。
+
 ```
 :Lazy
 ```
 
 ## 開発環境構築 - iOS
+
 - XCode
 - CocoaPods
 
 ## 開発環境構築 - Web
+
 - nodenv
 - node.js (npm inside)
 
 ## SNSアプリ
+
 - Slack
 - Discord
