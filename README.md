@@ -127,10 +127,18 @@ brew install neovim
 
 設定は[dotfiles](https://github.com/hahnah/dotfiles)の内容にする。
 
+Neovimを使う上での [Requirements](https://github.com/hahnah/dotfiles/blob/main/.config/nvim/README.md#requirements) を用意する。
+
 Lazy.nvimでプラグインのインストールを実行する。
 
 ```
 :Lazy
+```
+
+Mason で LSP, Formatter, Linter などをインストールする。
+
+```
+:Mason
 ```
 
 ## 開発環境構築 - iOS
