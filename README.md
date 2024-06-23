@@ -91,16 +91,6 @@ https://www.josean.com/posts/how-to-setup-alacritty-terminal
 - zoxide
 - ~~tmux~~ tmuxではなくzellijを使うことにする
 
-### Alacritty の設定ファイル
-
-`~/.config/alacritty/alacritty.toml` に設定する。  
-このリポジトリの .config/alacritty/alacritty.toml のようになる。
-
-### zsh の設定ファイル
-
-`~/.zshrc` に設定する。  
-このリポジトリの .zshrc のようになる。
-
 ### zellij のインストール・設定
 
 ```bash
