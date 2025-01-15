@@ -138,7 +138,8 @@ Mason で LSP, Formatter, Linter などをインストールする。
 
 ## 開発環境構築 - Web
 
-- nodenv
+- ~~nodenv~~ (一部のプロジェクトのために必要な場合あり)
+- volta
 - node.js (npm inside)
 
 ## SNSアプリ
