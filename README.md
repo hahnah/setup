@@ -101,7 +101,9 @@ zellij setup --dump-config > ~/.config/zellij/config.kdl
 
 ### ripgrep コマンドのインストール
 
+```
 brew install ripgrep
+```
 
 ### tree コマンドのインストール
 
