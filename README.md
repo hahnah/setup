@@ -63,14 +63,6 @@ Setup Knowledge
       - User は git にしないとうまく行かない
     - ssh -T github.com
       - yes -> success!
-- Visual Studio Code
-  - plugins
-    - Vim
-    - GitLens
-    - Git Graph
-    - ESLint
-    - Bracket Pair Colorizer 2
-    - Elm (Elm tooling)
 
 ## Dotfiles
 
