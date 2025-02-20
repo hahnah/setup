@@ -117,6 +117,12 @@ brew install fd
 brew install tree
 ```
 
+### AeroSpace のインストール
+
+```
+brew install --cask nikitabobko/tap/aerospace
+```
+
 ## Neovim
 
 ```
